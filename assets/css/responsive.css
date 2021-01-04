@@ -1,0 +1,15 @@
+@media (max-width: 570px) {
+    .nav-menu {
+        padding: 1rem 1rem;
+    }
+
+    .newsletters {
+        padding: 2rem 1rem;
+    }
+}
+
+@media (max-width: 991px) {
+    .sidebar {
+        margin-top: 1rem;
+    }
+}
